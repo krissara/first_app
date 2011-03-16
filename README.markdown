@@ -1,5 +1,5 @@
 == Welcome to Rails
-This is first application - ruby on rails
+This is first application - ruby on rails by Sara
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
